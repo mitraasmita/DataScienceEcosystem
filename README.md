@@ -1,1 +1,2 @@
 # DataScienceEcosystem
+This repository contains the Jupyter notebook files created as part of the Coursera course "Tools for Data Science" offered by IBM. The exercises included in this repository are aligned with my academic requirements and aim to provide an overview of various data science tools and techniques. The notebook covers key concepts such as popular programming languages, libraries, data science tools, and practical examples of arithmetic operations in Python.
